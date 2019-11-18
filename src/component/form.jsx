@@ -65,7 +65,7 @@ class Form extends Component {
 
     if (currentStep === 3 && this.state.employees_number < 50) {
       error += 1
-      alert("Vous n'êtes pas assez nombreux")
+      alert("Merci de rensiengner une valeur supérieur ou égale à 50 salariés.")
     }
 
     if (currentStep >= 1 && currentStep < 4 && error === 0) {
