@@ -28,7 +28,8 @@
   },
   "dependencies": {
     "react": "16.2",
-    "react-dom": "16.2"
+    "react-dom": "16.2",
+    "react-hook-form": "^3.28.1"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development",
