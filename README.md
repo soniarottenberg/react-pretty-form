@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple 4-step form with React
+A simple 4-step form with React.
 Each step on the form is an object and appears depending on the customer journey
 Validations are present to ensure input is correct
 - Step 1, Step 2 and Step 4 : input must be at least 4 characters long
